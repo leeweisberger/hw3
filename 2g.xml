@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+   <open_auction id="open_auction6">
+      <bidders total_number="1">
+         <bidder_name>"Mitsugu Hoppenstand"</bidder_name>
+      </bidders>
+   </open_auction>
+   <open_auction id="open_auction40">
+      <bidders total_number="8">
+         <bidder_name>"Rens Rifaut"</bidder_name>
+         <bidder_name>"Xiaoheng Madeira"</bidder_name>
+         <bidder_name>"Orazio Mikki"</bidder_name>
+         <bidder_name>"Eyeun Pelc"</bidder_name>
+         <bidder_name>"Pier Cyne"</bidder_name>
+         <bidder_name>"Shashank McCandless"</bidder_name>
+         <bidder_name>"Ryoji Bober"</bidder_name>
+         <bidder_name>"Eleanna Szymczak"</bidder_name>
+      </bidders>
+   </open_auction>
+</result>

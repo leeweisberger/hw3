@@ -1,0 +1,7 @@
+<result>
+  {
+    for $i in doc("/opt/dbcourse/examples/xmark/auction.xml")//item
+    where (../$i) = "africa"
+    return $i/name
+  }
+</result>
